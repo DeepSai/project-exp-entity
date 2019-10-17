@@ -6,7 +6,7 @@
 见`cv_pro_alg.py`, `cv_pro_alg.sh`
 
 ## step 2
-从join后的json数据中抽取所需内容：提取项目经历的名称，描述，职责，职能。难点在于将项目经历对应于工作经历，进而对应于算法识别出function，
+从join后的json数据中抽取所需内容：提取项目经历的名称，描述，职责，职能。难点在于将项目经历对应到工作经历，进而对应到算法识别出function，
 见 `cluster_by_func.py`
 
 ## step 3
